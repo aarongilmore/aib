@@ -1,5 +1,6 @@
 html {
-	background-color: #ffd1dc;
+	background-color: #eecfdb;
+	color: #221d3d;
 }
 
 h1 {
@@ -18,4 +19,5 @@ border: initial;
 
 input[type=submit] {
 	cursor: pointer;
+	background-color: #221d3d;
 }
