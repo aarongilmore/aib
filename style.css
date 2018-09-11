@@ -1,0 +1,21 @@
+html {
+	background-color: #ffd1dc;
+}
+
+h1 {
+	font-family: 'Permanent Marker', cursive;
+}
+
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+
+input {
+-webkit-border-radius: initial;
+-moz-border-radius: initial;
+-o-border-radius: initial;
+border-radius: initial;
+border: initial;
+}
+
+input[type=submit] {
+	cursor: pointer;
+}
